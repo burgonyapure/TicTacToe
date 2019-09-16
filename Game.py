@@ -16,8 +16,8 @@ def game_board():
         print("   A  B  C")
         for count, row in enumerate(game):
                 print(count, row)
-                
-game_board()                
+
+game_board()
 
 
 
